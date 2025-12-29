@@ -1,4 +1,4 @@
-#Delete leading zeros
+#Delete leading zeros : 
 this program removes leadind zeros from numbers.
 
 
