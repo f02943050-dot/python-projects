@@ -1,4 +1,5 @@
 # your computer will chose a number randomly and you should guess it.
+# the number is between the 1 to 10.
 
 
 import random
